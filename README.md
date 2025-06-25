@@ -8,6 +8,11 @@
 
 # What I  learned:
 - How to write better HTML/CSS
-- Responsive Design
-- Website design basic
-  
+- Responsive Design for both mobile and pc
+- Website design basics
+- React and Typescript intecration
+
+
+
+# Contact
+## LinkedIn: https://www.linkedin.com/in/roland-piperal-932a4a347/
